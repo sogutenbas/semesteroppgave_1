@@ -71,7 +71,7 @@ header .navbar ul li:hover>ul {
 .banner h1 {
     position: absolute;
     text-align: center;
-    text-shadow: 6px 6px 4px black;
+    text-shadow: 2px 2px 1px rgb(52, 51, 51);
     width: 100%;
     top: 25%;
     transform: translateY(-50%);
