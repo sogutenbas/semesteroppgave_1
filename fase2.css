@@ -90,6 +90,7 @@ header .navbar ul li:hover>ul {
 
 article {
     max-width: 1000px;
+    text-align: justify;
     margin: 50px auto;
     padding: 30px;
     line-height: 1.5;
